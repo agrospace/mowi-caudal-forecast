@@ -43,9 +43,6 @@ ENV/
 
 # Output directories
 output/
-*.png
-*.jpg
-*.jpeg
 
 # OS
 .DS_Store
