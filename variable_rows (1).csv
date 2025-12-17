@@ -1,0 +1,23 @@
+variable_id,variable_name,unit,description,spanish_name
+06fc0589-219f-4101-8256-bcb202b28cec,wd,° (degrees),Wind direction,Dirección del Viento
+2b31f900-32bb-4614-9818-3089cf7ac904,battv,V,Battery voltage,
+37a124f6-3cb5-4edf-a9d7-2028869f7a79,timestamp,datetime,Date and time,
+3e5659d3-209d-403b-a9b6-fdf45cb6f62c,ptemp,°C,Panel temperature,
+4ff5f8af-72e9-4e0c-8a55-a758b664bfd0,wind_useful,%,Useful wind time percentage,Porcentaje de Tiempo con Viento Útil (3-25 m/s)
+646f0ba3-a69d-4707-8d9f-b178f32e9fd8,wind_140m,m/s,Average wind speed at 140m,Velocidad Media a 140m
+655ffb73-3a33-4ac2-9491-9f056d77fc64,wind_gust_10m,m/s,,Ráfaga a 10m
+73b37f27-668b-43f2-bc0c-767a86b7bc10,ws10m,m/s,Wind speed at 10m,Velocidad del Viento a 10m
+812d7606-fdd5-4cf0-a5b5-4345d0cb9fa8,battv_min,V,Minimum battery voltage,
+8371820a-a48e-45b9-b769-3f81b58b01ac,pp,mm,Total rainfall,Precipitación
+949f89b0-e918-434b-815a-beb4bddb40d5,ws2m,m/s,Average wind speed at 2m,Velocidad del Viento a 2m
+950e5e40-69c7-46ba-bcad-a8c141caf515,ws5m,m/s,Average wind speed at 5m,Velocidad del Viento a 5m
+a903dcf1-33eb-4497-a955-eb33bd95a2b7,wind_gust_5m,m/s,,Ráfaga a 5m
+b868036d-2e37-41c8-9abd-66dc5e67d420,wind_energy,GWh,Total wind energy generated,Energía Total Generada
+bfb705f5-100a-402c-9efd-b4641544d628,wd_std,° (degrees),Wind direction standard deviation,
+c9550808-d1cb-43eb-abbc-c77bb401099f,rh,%,Relative humidity,Humedad Relativa
+d0ad7061-6011-42b1-9e28-6ec39b57b85c,wind_density,W/m²,Wind Power Density,Densidad de Potencia Eólica
+d1437dc6-4d97-4e53-b139-9adbbca183d8,sup,W m⁻²,Solar radiation,Radiación Solar
+dffdefd6-e22d-4b47-a601-41265e7b0150,patm,ATM,Atmospheric pressure,Presión Atmosférica
+ea27a30e-f2b2-44c0-9b57-f5f94854e585,ta,°C,Air temperature,Temperatura del Aire
+f7e546ed-d9b9-41a9-89e7-1294da58ccd4,wind_hfc,h,Full Load Hours,Horas Full Carga (HFC)
+fc4cd3bc-6dac-459e-8e46-7d6d198d965b,wind_cf,%,Capacity Factor,Factor de Capacidad (CF)
